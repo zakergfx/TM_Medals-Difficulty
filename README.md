@@ -1,2 +1,2 @@
 # TM_Medals-Difficulty
-### a simple tm plugin
+### a simple tm plugin.
