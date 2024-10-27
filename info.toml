@@ -1,0 +1,9 @@
+[meta]
+name = "Medals Difficulty"
+author = "ZaKeRMPH"
+category = "Race"
+version = "0.3"
+
+[script]
+dependencies = [ "NadeoServices" ]
+
