@@ -12,5 +12,5 @@ Here is the [PR link](https://github.com/Phlarx/tm-ultimate-medals/pull/48)
 
 ## Other information
 - Written in AngelScript
-- Downloaded 1200 times
+- Downloaded 1800 times
 - Available here [Project link](https://openplanet.dev/plugin/medalsdifficulty)
